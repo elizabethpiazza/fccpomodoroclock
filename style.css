@@ -1,0 +1,14 @@
+.value {
+	font-size: 3em;
+	vertical-align: middle;
+	padding: 10px;
+}
+
+#timer {
+	font-size: 4em;
+	font-weight: bold;
+	padding: 1em 0;
+	margin-top: 1em;
+	background: #9999FF;
+	border-radius: 50%;
+}
